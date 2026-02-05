@@ -2,7 +2,7 @@
 
 Founder–builder working at the intersection of software infrastructure, payments-adjacent systems, and skill-based competitive gaming platforms.
 
-I design and build systems that automate complex workflows end-to-end — from user onboarding and verification through transaction handling, contest orchestration, and settlement logic — with an emphasis on clarity, compliance-awareness, and scale.
+I design and build systems that automate complex workflows end-to-end, from user onboarding and verification through transaction handling, contest orchestration, and settlement logic, with an emphasis on clarity, compliance-awareness, and scale.
 
 ---
 
